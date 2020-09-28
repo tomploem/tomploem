@@ -13,10 +13,10 @@ You can find me on twitter 🙌, if you in for a cup of coffee or a discussion!
 
 ### Favorite things to learn about 🌱
 
-* [Blockchain]
-* [P2P]
-* [Frontend]
-* [Web Performance]
-* [Software Architecture]
+* Blockchain
+* P2P
+* Frontend
+* Web Performance
+* Software Architecture
 
 Let me know if you have an interesting topic to talk about. It might end up on my favorite things to learn about 👯
