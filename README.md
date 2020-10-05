@@ -8,7 +8,7 @@ You can find me on twitter 🙌, if you in for a cup of coffee or a discussion!
 
 ### Projects 🔭
 
-* [Arcado Protocol](https://arcado.network)
+* [Arcado Network](https://arcado.network)
 * [Hallar](https://hallar.io)
 
 ### Favorite things to learn about 🌱
