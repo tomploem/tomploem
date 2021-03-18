@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I am a Blockchain nomade that loves to learn technologies that are beneficial to humanity. You will always find me working on fun projects, some open source and others private, that will also help blockchain and open source communities.
+I am a Blockchain nomad that loves to learn technologies that are beneficial to humanity. You will always find me working on fun projects, some open source and others private, that will also help blockchain and open source communities.
 
 You can find me on twitter 🙌, if you in for a cup of coffee or a discussion!
 
