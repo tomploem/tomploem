@@ -8,8 +8,8 @@ Get in touch!
 
 ### Projects 🔭
 
-* [Journals Network](https://journals.network)
 * [Hallar](https://hallar.io)
+* [Journals Network](https://journals.network)
 
 ### Favorite things to learn about 🌱
 
