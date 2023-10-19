@@ -6,16 +6,15 @@ I am a full-stack engineer nomad that loves to learn technologies which are bene
 
 #### Note-worthy projects 🔭
 
-* [Axiom](https://github.com/endrohq/axiom) - Top 10 Category Metamask: Consensys Hackathon
-* [Biota](https://github.com/endrohq/biota-ui) - 5th overal: Hedera Beyond Blockchain Hackathon
+* [Axiom](https://github.com/endrohq/axiom) - Top 10 in Category Metamask @ Consensys Hackathon
+* [Biota](https://github.com/endrohq/biota-ui) - 5th @ Hedera Beyond Blockchain Hackathon
 * [Hallar](https://hallar.io) - Discontinued Startup
-* [Journals](https://devpost.com/software/journals) - First Place: HackOnLisk 2021
+* [Journals](https://devpost.com/software/journals) - First Place @ HackOnLisk 2021
 
 
 #### Specializations 🌱
 
-* Decentralisation
-* Blockchain
+* Decentralisation (Blockchain - Web3)
 * Frontend (React - React Native)
 * Web Performance
 * Software Architecture
